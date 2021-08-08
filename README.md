@@ -1,1 +1,1 @@
-# manan71.github.io
+# https://mananamin.github.io/manan-resume/
