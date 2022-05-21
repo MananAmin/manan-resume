@@ -51,6 +51,7 @@ body {
 .social-links li {
   list-style: none;
   display: inline-block;
+  position: relative;
 }
 .social-links li a {
   height: 50px;
